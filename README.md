@@ -18,14 +18,14 @@ https://ibb.co/m518bbs
 
 node index.js --action="add" --name Alvaro --email capibara@gmail.com --phone 969-69-69
 
-https://ibb.co/jg7PmGR
+https://ibb.co/pdjHPXy
 
-<img src="https://i.ibb.co/zGKTpbJ/add.png" alt="add" border="0" />
+<img src="https://i.ibb.co/kX2Lyc1/add.png" alt="add" border="0" />
 
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
-https://ibb.co/jg7PmGR
+https://ibb.co/rZbp6wR
 
-<img src="https://i.ibb.co/zGKTpbJ/add.png" alt="add" border="0" />
+<img src="https://i.ibb.co/55Yj8Rg/remove.png" alt="remove" border="0" />
